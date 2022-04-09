@@ -12,3 +12,7 @@ one
 11. git rm folder direct delete folder
 12. git rm -r folder recursively delete folder
    
+//Branch
+13. git branch //show branch list
+14. git branch branchName
+15. git checkout branchname //switching branch
