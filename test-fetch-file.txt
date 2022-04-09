@@ -1,2 +1,2 @@
-Fetching
-and should be merge
+git fetch //Fetching
+git merch //and should be merge
