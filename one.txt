@@ -1,0 +1,9 @@
+one 
+1. local to stage git add -A or --all (chaidred also carry on there parent, both are careing)
+2. git reset, stage to local
+3. add . current dir all folder to stage (Parent cary on chaidred, not chaidred carry on parent)
+4. git add *
+5. git add filename.ext or git add myfolder/filename.ext single file up to stage or inside or folder 
+6. extension wise file up to stage git add *.txt/js/<i class="fa fa-paragraph" aria-hidden="true"></i>
+7. git reset HEAD~ //after commited file back stage to loca;
+
