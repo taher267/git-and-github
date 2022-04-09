@@ -16,3 +16,5 @@ one
 13. git branch //show branch list
 14. git branch branchName
 15. git checkout branchname //switching branch
+//Merge one branch to another branch
+16. git merge main -m "merging on development with main"
